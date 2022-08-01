@@ -6,6 +6,6 @@ public class TimeConvertor {
         System.out.println(seconds);
     }
     public static void main(String[] args) {
-        convert(3.5);
+        convert(3.5f);
     }
 }
