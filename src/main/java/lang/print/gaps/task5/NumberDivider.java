@@ -6,7 +6,7 @@ public class NumberDivider {
         System.out.println(result);
     }
     public static void main(String[] args){
-        divide(int toBeDivided);
+        divide(10);
     }
 }
 
